@@ -10,29 +10,35 @@ redirect_from:
 
 ### University of Modena and Reggio Emilia
 
-**A.Y. 2024-2025 & A.Y. 2025-2026**
+**A.Y. 2025-2026**
+- **Sistemi Informativi** (9 CFU) - BSc in Management Engineering
+- **Big Data and Text Analysis** (9 CFU) - MSc in Computer Engineering
+
+
+---
+
+## Past Teaching
+
+### University of Modena and Reggio Emilia
+
+**A.Y. 2024-2025**
 - **Sistemi Informativi** (9 CFU) - BSc in Management Engineering
 
-**A.Y. 2023-2024 & A.Y. 2024-2025 & A.Y. 2025-2026**
+**A.Y. 2023-2024 & A.Y. 2024-2025**
 - **Big Data and Text Analysis** (9 CFU) - MSc in Computer Engineering
 
 **A.Y. 2023-2024 & A.Y. 2024-2025**
 - **Ingegneria del Software e Laboratorio** (9 CFU) - BSc in Computer Engineering
 
 ### Universidade da Coruña, Spain (Erasmus+)
-
-**April 2025**
+April 2025
 - **Language Modeling** (3 hours) - MSc in Artificial Intelligence
 - **Graph-based modeling and optimization of urban mobility** (1.5 hours) - PhD School in Computer Science
 
 ### University of Parma
-
-**November 2024**
+November 2024
 - **Graph-based Knowledge Representation for Urban Mobility** (10 hours) - PhD School in Information Technologies
 
----
-
-## Past Teaching
 
 ### External Teaching
 
