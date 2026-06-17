@@ -1,6 +1,6 @@
 ---
 title: "Lively Ageing - Active & Healthy Ageing Technologies"
-excerpt: "\[February 2026 – present\] Ministry of Health project on technologies for active ageing and home care"
+excerpt: "Ministry of Health project on technologies for active ageing and home care (February 2026 – present)"
 collection: portfolio
 ---
 
