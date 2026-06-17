@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Lively Ageing - Active & Healthy Ageing Technologies"
+excerpt: "Ministry of Health project on technologies for active ageing and home care"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Timeline:** February 2026 – present  
+**Role:** Research Fellow (RTD-A)  
+**Funding:** Italian Ministry of Health (Trajectory 1)
+
+I am currently working as a Research Fellow under art. 22 of Law 240/2010 at the University of Modena and Reggio Emilia. The project focuses on developing technologies for active ageing and home care within the "Active & Healthy Ageing" trajectory.
+
+[Link to project](https://www.livelyageing.unimore.it/)
