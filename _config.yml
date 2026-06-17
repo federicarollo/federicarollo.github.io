@@ -15,7 +15,7 @@ name                     : &name "Federica Rollo"
 description              : &description "ICT & Data Science Researcher"
 url                      : https://federicarollo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/federicarollo/federicarollo.github.io" # "academicpages/academicpages.github.io"
+repository               : "federicarollo/federicarollo.github.io" # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -236,17 +236,17 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: ""
